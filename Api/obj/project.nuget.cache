@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zybYPOV0ZmhmK9CEI9uUgl9zSVoxJgQFav7PRt0gVfkM127Si1eDUrDsgjc7F96Jv543mvrPt9UIHQw95mBJDg==",
+  "success": true,
+  "projectFilePath": "/Users/raphaelneves/Developer/C#/CsvApi/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/raphaelneves/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
+    "/Users/raphaelneves/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/raphaelneves/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/raphaelneves/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/raphaelneves/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/raphaelneves/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/raphaelneves/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/raphaelneves/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
